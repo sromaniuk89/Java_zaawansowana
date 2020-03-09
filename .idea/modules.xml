@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumExample/EnumExample.iml" filepath="$PROJECT_DIR$/EnumExample/EnumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfejsy/Interfejsy.iml" filepath="$PROJECT_DIR$/Interfejsy/Interfejsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfejsy2/Interfejsy2.iml" filepath="$PROJECT_DIR$/Interfejsy2/Interfejsy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_zaawansowana.iml" filepath="$PROJECT_DIR$/Java_zaawansowana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfizm/Polimorfizm.iml" filepath="$PROJECT_DIR$/Polimorfizm/Polimorfizm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struktury_danych/Struktury_danych.iml" filepath="$PROJECT_DIR$/Struktury_danych/Struktury_danych.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy_generyczne/Typy_generyczne.iml" filepath="$PROJECT_DIR$/Typy_generyczne/Typy_generyczne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Zad1.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Zad1.iml" />
+    </modules>
+  </component>
+</project>
